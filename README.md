@@ -1,4 +1,4 @@
-CodeEval-Stuff
-==============
+Codility
+========
 
-Various CodeEval problems
+various Codility problems
